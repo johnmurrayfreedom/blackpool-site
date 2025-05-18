@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <link rel="icon" href="/assets/favicon-CSQWzLeg.svg" type="image/svg+xml" />
+    <title>Citizens Information & Advice Bureau – Blackpool, Fylde & Wyre</title>
+    <meta name="description" content="Free, confidential guidance on benefits, housing, debt, healthcare, family support and more for residents of Blackpool, Fylde & Wyre." />
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="Citizens Information & Advice Bureau – Blackpool, Fylde & Wyre" />
+    <meta property="og:description" content="Free, confidential guidance on benefits, housing, debt, healthcare, family support and more for residents of Blackpool, Fylde & Wyre." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://blackpoolciab.org.uk" />
+    <!-- Google Analytics Tag -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-K8C41F7SPB"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-K8C41F7SPB');
+    </script>
+    <!-- Font preload -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script type="module" crossorigin src="/assets/index-BK94Zy0i.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index--JWF7RbD.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <!-- This is a replit script which adds a banner on the top of the page when opened in development mode outside the replit environment -->
+    <script type="text/javascript" src="https://replit.com/public/js/replit-dev-banner.js"></script>
+  </body>
+</html>
