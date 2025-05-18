@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#0F4C81"/>
+  
+  <!-- Decorative elements -->
+  <path d="M0 0L1200 0L1200 630L0 630L0 0Z" fill="#0F4C81"/>
+  <path d="M1000 100C1100 100 1200 150 1200 200V630H800V200C800 150 900 100 1000 100Z" fill="#0E3B62" fill-opacity="0.5"/>
+  <path d="M200 100C100 100 0 150 0 200V630H400V200C400 150 300 100 200 100Z" fill="#0E3B62" fill-opacity="0.5"/>
+  
+  <!-- Main logo circle -->
+  <circle cx="600" cy="230" r="120" fill="#FFFFFF"/>
+  <circle cx="600" cy="230" r="100" fill="#0F4C81"/>
+  <text x="600" y="250" font-family="Arial, sans-serif" font-size="90" font-weight="bold" fill="white" text-anchor="middle">i</text>
+  
+  <!-- Organization name -->
+  <text x="600" y="400" font-family="Arial, sans-serif" font-size="50" font-weight="bold" fill="white" text-anchor="middle">Citizens Information &amp; Advice Bureau</text>
+  
+  <!-- Tagline -->
+  <text x="600" y="460" font-family="Arial, sans-serif" font-size="30" fill="white" text-anchor="middle">Free advice for Blackpool, Fylde &amp; Wyre residents</text>
+  
+  <!-- Contact information -->
+  <text x="600" y="520" font-family="Arial, sans-serif" font-size="24" fill="white" text-anchor="middle">www.blackpooladvice.org | 01253 835580</text>
+  
+  <!-- Partner logos suggestion -->
+  <rect x="260" y="550" width="680" height="50" rx="25" fill="#FFFFFF" fill-opacity="0.1"/>
+  <text x="600" y="582" font-family="Arial, sans-serif" font-size="18" fill="white" text-anchor="middle">In partnership with Blackpool Council, Fylde Borough Council, Wyre Council, NHS Blackpool, DWP, Citizens Advice</text>
+</svg>
